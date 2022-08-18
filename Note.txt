@@ -1,0 +1,4 @@
+SSR & CSR 
+
+SSR : Server Side Render
+CSR : Client Side Render
